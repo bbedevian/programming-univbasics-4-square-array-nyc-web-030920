@@ -6,4 +6,5 @@ def square_array(array)
     new_numbers.push(square)
     i += 1
   end
+  new_numbers
 end
